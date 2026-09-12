@@ -154,7 +154,7 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 
 <p align="center">
 <a href="https://github.com/muhhtasim">
-<img src="https://streak-stats.demolab.com?user=failuresoul&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF" alt="GitHub Streak" width="400" />
+<img src="https://streak-stats.demolab.com?user=muhhtasim&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF" alt="GitHub Streak" width="400" />
 </a>
 </p>
 

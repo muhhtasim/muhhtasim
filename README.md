@@ -243,7 +243,7 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 
 <p align="center">
 
-Made by **Nurul Absar Shadik**
+Made by **Ahmed Muhtasim Labib**
 
 </p>
 

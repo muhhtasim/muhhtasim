@@ -204,11 +204,11 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 <p align="center">
 
 <a href="https://github.com/muhhtasim">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=failuresoul&theme=tokyonight" alt="Repos per Language" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhhtasim&theme=tokyonight" alt="Repos per Language" width="45%" />
 </a>
 
 <a href="https://github.com/muhhtasim">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=failuresoul&theme=tokyonight" alt="Most Commit Language" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhhtasim&theme=tokyonight" alt="Most Commit Language" width="45%" />
 </a>
 
 </p>

@@ -18,7 +18,7 @@
 <a href="https://www.kaggle.com/muhtasimahmed52"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=failuresoul&label=Profile%20Views&color=00D4FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=muhhtasim&label=Profile%20Views&color=00D4FF&style=flat-square" />
 
 </div>
 
